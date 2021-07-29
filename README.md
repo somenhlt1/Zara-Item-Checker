@@ -4,7 +4,7 @@ Checking stock availability
 
 Install instruction:
 
-Read SendGrid API, and Twilio API for requirements
+Read SendGrid API, puppeeter, and Twilio API for requirements 
 
 Install node.js
 
